@@ -4,7 +4,7 @@
 
 - Python
 
-##  👩🏻‍💻📓✍🏻💡 Pasos a onfigurar el proyecto:
+##  👩🏻‍💻📓✍🏻💡 Pasos a configurar el proyecto:
 
 **1. Instalar las dependencias**
 ```bash
@@ -14,7 +14,7 @@
 
 **2. Agregar la ruta del archivo**
 ```bash
-  dataset= "/content/drive/MyDrive/Datasets/"
+  dataset= "/content/drive/MyDrive/dataSet/"
 ```
 
 ## Introducción 📜🛠️
@@ -71,9 +71,35 @@ Al analizar está base de datos había muchos datos marcados por cero y que tien
 ##  ✍🏻📚 Caso de uso:
 **Moda General:**
 
-- En esta sección podrás visualizar el valor que aparece con mayor frecuencia en una columna.
+- En esta sección podrás visualizar el valor que aparece con mayor frecuencia en una columna dependiendo el año.
+ 
+<img src="Image/moda.png" width="400" alt="General">
 
+**Genero:**
+
+- En esta sección podrás visualizar las personas desaparecidas conforme a su genero.
   
+<img src="Image/genero.png" alt="Genero">
+
+**Edad:**
+
+- En esta sección podrás visualizar el rango de edad.
+  
+<img src="Image/genero.png" alt="Edad">
+
+**Municipio:**
+
+- En esta sección podrás visualizar cuantas personas por municipio desaparecieron.
+  
+<img src="Image/municipio.png"  alt="Municipio">
+
+**Etnia:**
+
+- En esta sección podrás visualizar las etnias de los desaparecidos.
+  
+<img src="Image/etnia.png" alt="Etnia">
+
+
 **Recursos Utilizados📚🎓**
 
 [Consumo de datos](https://datamx.io/gl/dataset/?tags=desaparecidos📚)
