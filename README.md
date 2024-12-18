@@ -103,4 +103,4 @@ Al analizar está base de datos había muchos datos marcados por cero y que tien
 
 **Recursos Utilizados📚🎓**
 
-[Consumo de datos](https://datamx.io/gl/dataset/?tags=desaparecidos📚)
+[Consumo de datos](https://datamx.io/gl/dataset/?tags=desaparecidos)
