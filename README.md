@@ -1,7 +1,6 @@
 # ProcesamientoPython
 
 
-
 ## 🎯🚀 Skills
 
 - Python
@@ -57,14 +56,25 @@ La desaparición de personas es un problema que afecta a las víctimas, sus fami
 La solución consiste en limpiar y procesar los datos utilizando Python y pandas. Primero, se identificará y manejará la información incompleta o nula, eliminando los valores faltantes según lo que se va a necesitar, también trnsformar los datos tales como fecha para obtener variables como el tiempo transcurrido.
 Después se realizarán análisis para identificar patrones y distribuciones de variables clave, como la edad, sexo, ubicación (municipio, país) y características físicas (estatura, complexión). Esto permitirá observar tendencias y correlaciones entre diferentes factores, como la hora o fecha de desaparición y la probabilidad de localización.
 
-## Consideraciones futuras
+
+## Consideraciones futuras 
+
+Una vez que los datos de los desaparecidos hayan sido procesados y limpiados, se podrán realizar análisis más detallados y profundos sobre los patrones y tendencias en las desapariciones. A partir de estos análisis, se podrán identificar posibles tendencias geográficas o demográficas, y reconocer áreas de alta incidencia que podrían requerir atención urgente.
+En futuras etapas, se podrían emplear modelos predictivos para anticipar zonas o grupos de alto riesgo de desapariciones, ayudando a las autoridades y organizaciones a priorizar recursos y estrategias de prevención. Además, los datos recopilados podrían contribuir a la creación de alertas tempranas, mejorando la respuesta ante nuevos casos y potenciando las acciones de búsqueda.
 
 
+## Conclusión 
 
-## Conclusión
+Al realizar el proyecto se pudo identificar que hay datos que no son precisos, lo que genera que al realizar el análisis existan sesgos en la investigación.
+Derivado de esto es importante que las bases de datos puedan homologarse de manera que exista el mínimo margen de error.
+Al analizar está base de datos había muchos datos marcados por cero y que tiene 
 
+##  ✍🏻📚 Caso de uso:
+**Moda General:**
 
+- En esta sección podrás visualizar el valor que aparece con mayor frecuencia en una columna.
 
+  
 **Recursos Utilizados📚🎓**
 
 [Consumo de datos](https://datamx.io/gl/dataset/?tags=desaparecidos📚)
