@@ -62,12 +62,6 @@ Una vez que los datos de los desaparecidos hayan sido procesados y limpiados, se
 En futuras etapas, se podrían emplear modelos predictivos para anticipar zonas o grupos de alto riesgo de desapariciones, ayudando a las autoridades y organizaciones a priorizar recursos y estrategias de prevención. Además, los datos recopilados podrían contribuir a la creación de alertas tempranas, mejorando la respuesta ante nuevos casos y potenciando las acciones de búsqueda.
 
 
-## Conclusión 
-
-Al realizar el proyecto se pudo identificar que hay datos que no son precisos, lo que genera que al realizar el análisis existan sesgos en la investigación.
-Derivado de esto es importante que las bases de datos puedan homologarse de manera que exista el mínimo margen de error.
-Al analizar está base de datos había muchos datos marcados por cero y que tiene 
-
 ##  ✍🏻📚 Caso de uso:
 **Moda General:**
 
@@ -98,6 +92,13 @@ Al analizar está base de datos había muchos datos marcados por cero y que tien
 - En esta sección podrás visualizar las etnias de los desaparecidos.
   
 <img src="Image/etnia.png" alt="Etnia">
+
+
+## Conclusión 
+
+Al realizar el proyecto se pudo identificar que hay datos que no son precisos, lo que genera que al realizar el análisis existan sesgos en la investigación.
+Derivado de esto es importante que las bases de datos puedan homologarse de manera que exista el mínimo margen de error.
+Al analizar está base de datos había muchos datos marcados por cero y que tiene 
 
 
 **Recursos Utilizados📚🎓**
