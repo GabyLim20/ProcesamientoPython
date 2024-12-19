@@ -98,7 +98,13 @@ En futuras etapas, se podrían emplear modelos predictivos para anticipar zonas 
 
 Al realizar el proyecto se pudo identificar que hay datos que no son precisos, lo que genera que al realizar el análisis existan sesgos en la investigación.
 Derivado de esto es importante que las bases de datos puedan homologarse de manera que exista el mínimo margen de error.
-Al analizar está base de datos había muchos datos marcados por cero y que tiene 
+
+El análisis de datos sobre desapariciones en México revela patrones clave:
+- Edades predominantes: 31-40 años, con casos desde 1 hasta 99 años.
+- Municipios más afectados: Acapulco de Juárez, Zumpango y Abasolo.
+- Grupos vulnerables: Las personas de etnias indígenas, como los Mayas y Nahuas, enfrentan un mayor riesgo.
+- Datos limitados: Inconsistencias en columnas de edad, estatura y fechas complican el análisis.
+El análisis permitió identificar áreas prioritarias para intervenciones preventivas y expuso las necesidades de mejora como la implementación sistemas de captura de datos más precisos y uniformes.
 
 
 **Recursos Utilizados📚🎓**
